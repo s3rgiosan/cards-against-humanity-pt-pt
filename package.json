@@ -1,0 +1,24 @@
+{
+  "name": "cards-against-humanity-pt-pt",
+  "version": "1.0.0",
+  "description": "Cards Against Humanity - Portuguese (Portugal)",
+  "homepage": "https://github.com/s3rgiosan/cards-against-humanity-pt-pt",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": "git@github.com:s3rgiosan/cards-against-humanity-pt-pt.git",
+  "author": [
+    {
+      "name": "CAHPT",
+      "email": "",
+      "homepage": ""
+    }
+  ],
+  "keywords": [
+    "cards",
+    "against",
+    "humanity",
+    "cah"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
