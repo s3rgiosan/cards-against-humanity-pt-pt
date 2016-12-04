@@ -7,16 +7,27 @@
   "repository": "git@github.com:s3rgiosan/cards-against-humanity-pt-pt.git",
   "author": [
     {
-      "name": "CAHPT",
-      "email": "",
-      "homepage": ""
+      "name": "Sérgio Santos",
+      "email": "me@s3rgiosan.com",
+      "homepage": "https://github.com/s3rgiosan"
+    },
+    {
+      "name": "Pedro Duarte",
+      "email": "xipasduarte@gmail.com",
+      "homepage": "http://github.com/xipasduarte"
+    },
+    {
+      "name": "Luís Rodrigues",
+      "email": "hello@goblindegook.net",
+      "homepage": "https://goblindegook.com"
     }
   ],
   "keywords": [
     "cards",
     "against",
     "humanity",
-    "cah"
+    "cah",
+    "cahpt"
   ],
   "main": "index.js",
   "dependencies": {},
