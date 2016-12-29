@@ -2,7 +2,6 @@
 /*eslint-env node*/
 "use strict";
 
-var fs = require('fs');
 var forEach = require('lodash.foreach');
 var map = require('lodash.map');
 var mkdirp = require('mkdirp');
