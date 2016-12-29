@@ -5,7 +5,7 @@ Portuguese translation for the awesome [Cards Against Humanity](https://www.card
 ## Team
 * [Sérgio Santos](https://github.com/s3rgiosan)
 * [Pedro Duarte](http://github.com/xipasduarte)
-* [Luís Rodrigues](https://goblindegook.com)
+* [Luís Rodrigues](https://github.com/goblindegook)
 
 ## Credits
 Thanks to [Tom Webster](http://samurailink3.com) and his [Hangouts Against Humanity](https://github.com/samurailink3/hangouts-against-humanity) project for the set of questions and answers used in this translation.
