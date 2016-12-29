@@ -75,7 +75,7 @@ function writeFile(data, path, type, expansion) {
     [path, type + '.md'].join('/'),
     data.map(function(value) {
       return value;
-    }).join('\n'),
+    }).join('\n\n'),
     function(err) {
       if (err) {
         console.error('Could not create the %s file for the expansion %s.', type, expansion);
