@@ -2,11 +2,11 @@
 /*eslint-env node*/
 "use strict";
 
-var forEach = require('lodash.foreach');
-var fs = require('fs');
-var groupBy = require('lodash.groupby');
-var mkdirp = require('mkdirp');
-var sanitize = require('sanitize-filename');
+const forEach = require('lodash.foreach');
+const fs = require('fs');
+const groupBy = require('lodash.groupby');
+const mkdirp = require('mkdirp');
+const sanitize = require('sanitize-filename');
 
 require('./data/cards.js');
 
