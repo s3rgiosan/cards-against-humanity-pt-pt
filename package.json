@@ -36,5 +36,8 @@
     "lodash.groupby": "^4.6.0",
     "mkdirp": "^0.5.1",
     "sanitize-filename": "^1.6.1"
+  },
+  "scripts": {
+    "build": "node index.js"
   }
 }

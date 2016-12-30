@@ -30,7 +30,7 @@ forEach(expansions, function(expansion) {
 
     let cardType = sanitize(card.cardType.toLowerCase());
     if (cardType !== 'q' && cardType !== 'a') {
-      console.error('Invalid card type for expansion %s.', expansionName);
+      console.error('Invalid card type for expansion "%s".', expansionName);
       return;
     }
 
@@ -46,7 +46,7 @@ forEach(expansions, function(expansion) {
   mkdirp(expansionFolder, function(err) {
 
     if (err) {
-      console.error('Could not create the expansion %s folder.', expansionName);
+      console.error('Could not create the expansion "%s" folder.', expansionName);
       return;
     }
 
@@ -78,7 +78,7 @@ function writeFile(data, path, type, expansion) {
     }).join('\n\n'),
     function(err) {
       if (err) {
-        console.error('Could not create the %s file for the expansion %s.', type, expansion);
+        console.error('Could not create the %s file for the expansion "%s".', type, expansion);
         return;
       }
     }
