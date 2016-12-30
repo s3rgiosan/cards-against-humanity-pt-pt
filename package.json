@@ -19,7 +19,7 @@
     {
       "name": "Luís Rodrigues",
       "email": "hello@goblindegook.net",
-      "homepage": "https://goblindegook.com"
+      "homepage": "https://github.com/goblindegook"
     }
   ],
   "keywords": [
@@ -31,5 +31,13 @@
   ],
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "lodash.foreach": "^4.5.0",
+    "lodash.groupby": "^4.6.0",
+    "mkdirp": "^0.5.1",
+    "sanitize-filename": "^1.6.1"
+  },
+  "scripts": {
+    "build": "node index.js"
+  }
 }
