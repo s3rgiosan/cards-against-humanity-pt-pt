@@ -1,8 +1,19 @@
 # Cards Against Humanity - Portuguese (Portugal)
 
-Portuguese translation for the awesome [Cards Against Humanity](https://www.cardsagainsthumanity.com/) card game.
+> Portuguese translation for the awesome [Cards Against Humanity](https://www.cardsagainsthumanity.com/) card game.
 
-## Team
+This repository contains plain text files of questions and answers for the CAH base set and some of the expansions.
+
+This repository also contains a file (`data/cards.js`) representing all cards, to date, and a script to generate the above mentioned files.
+
+## Contributing
+TODO
+
+## Build data set
+* `npm install`
+* `npm run build`
+
+## Translation Team
 * [Sérgio Santos](https://github.com/s3rgiosan)
 * [Pedro Duarte](http://github.com/xipasduarte)
 * [Luís Rodrigues](https://github.com/goblindegook)
