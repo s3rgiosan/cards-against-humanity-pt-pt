@@ -6,8 +6,8 @@ This repository contains plain text files of questions and answers for the CAH b
 
 This repository also contains a file (`data/cards.js`) representing all cards, to date, and a script to generate the above mentioned files.
 
-## Contributing
-TODO
+## How can I contribute?
+Join in on our [GitHub repository](https://github.com/s3rgiosan/cards-against-humanity-pt-pt/) and read our [contribution](https://github.com/s3rgiosan/cards-against-humanity-pt-pt/CONTRIBUTING.md) guidelines.
 
 ## Build data set
 * `npm install`
