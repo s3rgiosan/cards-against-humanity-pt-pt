@@ -25,26 +25,34 @@ Puppies!
 A windmill full of corpses.
 
 Guys who don't call.
+Homens que não ligam.
 
 Racially-biased SAT questions.
 
 Dying.
+Morrer.
 
 Steven Hawking talking dirty.
+O Seteven Hawking a porcamente.
 
 Being on fire.
+Estar a arder.
 
 A lifetime of sadness.
+Uma vida de tristeza.
 
 An erection that lasts longer than four hours.
+Uma erecção que dura mais de quatro horas.
 
 AIDS
+SIDA
 
 Same-sex ice dancing.
 
 Glenn Beck catching his scrotum on a curtain hook.
 
 The Rapture.
+O Arrebatamento.
 
 Pterodactyl eggs.
 
@@ -59,26 +67,35 @@ Dying of dysentery.
 Roofies.
 
 Getting naked and watching Nickelodeon.
+Despir a roupa e ver o canal Panda.
 
 The forbidden fruit.
+O fruto proibido.
 
 Republicans.
 
 The Big Bang.
+O Big Bang.
 
 Anal beads.
+Bolas anais.
 
 Amputees.
+Amputados.
 
 Men.
+Homens.
 
 Surprise sex!
+Sexo surpresa!
 
 Kim Jong-il.
+António de Oliveira Salazar.
 
 Concealing a boner
 
 Agriculture.
+Agricultura.
 
 Glenn Beck being harried by a swarm of buzzards.
 
@@ -87,41 +104,53 @@ Making a pouty face.
 A salty surprise.
 
 The Jews.
+Os Judeus.
 
 Charisma.
+Natal.
 
 YOU MUST CONSTRUCT ADDITIONAL PYLONS.
 
 Panda sex.
+Sexo de pandas.
 
 Taking off your shirt.
+Tirar a tua camisa.
 
 A drive-by shooting.
 
 Ronald Reagan.
 
 Morgan Freeman's voice.
+Voz de António Sala.
 
 Breaking out into song and dance.
 
 Jewish fraternities.
 
 Dead babies.
+Bebés mortos.
 
 Masturbation.
+Masturbação.
 
 Hormone injections.
+Injecções de hormonas.
 
 All-you-can-eat shrimp for $4.99.
 
 Incest.
+Incesto
 
 Scalping.
+Esculpir.
 
 Soup that is too hot.
+Sopa que está demasiado quente.
 
 The &Uuml;bermensch.
 
+Nazis.
 Nazis.
 
 Tom Cruise.
@@ -139,8 +168,10 @@ Figgy pudding.
 Object permanence.
 
 Consultants.
+Consultores.
 
 Intelligent design.
+Design inteligente.
 
 Nocturnal emissions.
 
@@ -159,6 +190,7 @@ Unfathomable stupidity.
 Repression.
 
 Attitude.
+Atitude.
 
 Passable transvestites.
 
@@ -169,20 +201,26 @@ The American Dream
 Child beauty pageants.
 
 Puberty.
+Puberdade.
 
 Testicular torsion.
+Torsão testicular.
 
 The folly of man.
 
 Nickelback.
+Panda.
 
 Swooping.
 
 Goats eating cans.
+Cabras a comer latas.
 
 The KKK.
+O KKK.
 
 Kamikaze pilots.
+Pilotos kamikaze.
 
 Horrifying laser hair removal accidents.
 
@@ -255,6 +293,7 @@ Smallpox blankets.
 The clitoris.
 
 John Wilkes Booth.
+Diogo Alves
 
 The glass ceiling.
 
@@ -271,6 +310,7 @@ Parting the Red Sea.
 A Bop It&trade;.
 
 Michael Jackson.
+
 
 Team-building exercises.
 
